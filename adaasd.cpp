@@ -36,7 +36,7 @@ long long partition (long long* arr[], long long low, long long high)
 
 
 
-
+/// thay doi moi
 
 void quickSort(long long arr[], long long low, long long high)
 {
