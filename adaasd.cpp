@@ -23,6 +23,21 @@ long long partition (long long* arr[], long long low, long long high)
     swap(&arr[i + 1], &arr[high]);
     return (i + 1);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void quickSort(long long arr[], long long low, long long high)
 {
     if (low < high)
